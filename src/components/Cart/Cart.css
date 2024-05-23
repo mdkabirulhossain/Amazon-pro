@@ -1,0 +1,9 @@
+.cart{
+    background-color: bisque;
+    margin-top: 50px;
+    padding: 10px;
+    border: 1px solid rgb(164, 177, 189);
+    border-radius: 10px;
+    position: sticky;
+    top: 0;
+}

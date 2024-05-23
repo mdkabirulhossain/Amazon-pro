@@ -1,0 +1,69 @@
+.header{
+    display: flex;
+    background-color: cadetblue;
+    justify-content: space-between;
+    width: 100%;
+    
+}
+.header img{
+    height: 50px;
+    margin-left: 100px;
+    padding: 5px;
+}
+.shop{
+    color: white;
+    margin: 20px;;
+    
+}
+.order{
+    color: white;
+    margin: 20px;;
+    
+}
+.inventory{
+    color: white;
+    margin: 20px;
+    
+}
+.login{
+    color: white;
+    margin: 20px;
+    /* padding: 10px; */
+    
+}
+.navlink{
+    margin-top: 15px;
+}
+@media (min-width: 0px) and (max-width: 576px) {
+    .header img{
+        margin-left: 5px;
+    }
+    .shop{
+        
+        margin: 10px;;
+        
+    }
+    .order{
+       
+        margin: 10px;;
+        
+    }
+    .inventory{
+      
+        margin: 20px;
+        
+    }
+    .login{
+        
+        margin: 10px;
+        
+        
+    }
+
+  }
+/* @media(max-width:576px){
+    
+    .login{
+        margin-left: 10px;
+    }
+} */
