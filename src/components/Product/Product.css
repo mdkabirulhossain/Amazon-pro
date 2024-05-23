@@ -1,0 +1,20 @@
+.product{
+    border: 1px solid rgb(219, 197, 197);
+    /* padding: 5px; */
+    border-radius: 10px;
+}
+.product img{
+    width: 286px;
+    height: 300px;
+}
+.product-info{
+    padding: 10px;
+}
+.add-to-cart{
+    width: 100%;
+    background-color: bisque;
+}
+
+.add-to-cart:hover{
+    background-color: orangered;
+}
